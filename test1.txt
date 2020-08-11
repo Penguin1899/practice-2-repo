@@ -1,0 +1,4 @@
+First 'add' this file to staging area.
+Later, 'commit' it onto the local-repo.
+Finally, 'push' it into the remote-repo.
+ 
