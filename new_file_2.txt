@@ -1,1 +1,5 @@
 This is the second file
+This is in branch1
+changes are made
+
+finally branch2 is created
